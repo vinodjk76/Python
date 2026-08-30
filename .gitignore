@@ -30,3 +30,4 @@ Thumbs.db
 
 echo "ffmpeg.exe" >> .gitignore
 echo "*.exe" >> .gitignoreautdio-text/ffmpeg.exe
+autdio-text/audio.mp3
