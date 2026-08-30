@@ -29,4 +29,4 @@ Thumbs.db
 *.log
 
 echo "ffmpeg.exe" >> .gitignore
-echo "*.exe" >> .gitignore
+echo "*.exe" >> .gitignoreautdio-text/ffmpeg.exe
